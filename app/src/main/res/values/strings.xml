@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Permatomas Laikrodis</string>
+    <string name="widget_description">Minimalus laikrodžio valdiklis su permatomu fonu planšetės ekranui.</string>
+    <string name="add_widget_cta">Pridėti valdiklį į ekraną</string>
+    <string name="pin_requested">Patvirtinkite valdiklio pridėjimą planšetės lange.</string>
+    <string name="manual_instructions">Ilgai paspauskite tuščią planšetės pagrindinio ekrano vietą, pasirinkite „Valdikliai“ ir įdėkite „Permatomas Laikrodis“.</string>
+</resources>

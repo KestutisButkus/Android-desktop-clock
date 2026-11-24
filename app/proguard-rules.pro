@@ -1,0 +1,1 @@
+# Nėra papildomų ProGuard taisyklių
